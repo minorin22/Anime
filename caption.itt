@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<tt xmlns:vt="http://namespace.itunes.apple.com/itt/ttml-extension#vertical" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ittp="http://www.w3.org/ns/ttml/profile/imsc1#parameter" xmlns:tt_feature="http://www.w3.org/ns/ttml/feature/" xmlns:ebutts="urn:ebu:tt:style" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:tt_extension="http://www.w3.org/ns/ttml/extension/" xmlns:tt_profile="http://www.w3.org/ns/ttml/profile/" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ry="http://namespace.itunes.apple.com/itt/ttml-extension#ruby" xmlns:itts="http://www.w3.org/ns/ttml/profile/imsc1#styling" xmlns="http://www.w3.org/ns/ttml" xml:lang="ja" ttp:dropMode="nonDrop" ttp:frameRate="24" ttp:frameRateMultiplier="1 1" ttp:timeBase="smpte" xmlns:tt="http://www.w3.org/ns/ttml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <head>
+    <styling>
+      <style xml:id="normal" tts:color="white" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal"/>
+    </styling>
+    <layout>
+      <region xml:id="bottom" tts:displayAlign="after" tts:extent="100% 15%" tts:origin="0% 85%" tts:textAlign="center" tts:writingMode="lrtb"/>
+    </layout>
+  </head>
+  <body tts:color="white" region="bottom" style="normal">
+    <div>
+      <p begin="00:00:04:00" end="00:00:05:12" region="bottom">楽しみだな！</p>
+      <p begin="00:00:05:12" end="00:00:07:00" region="bottom">そうだね</p>
+      <p begin="00:00:07:00" end="00:00:13:12" region="bottom">僕と晴奈は飛行機に乗っている。何でかっていうと、色々とあるんだ。</p>
+      <p begin="00:00:13:12" end="00:00:18:00" region="bottom">まぁ一言で言えば駆け落ちみたいなもの。</p>
+      <p begin="00:00:18:00" end="00:00:22:00" region="bottom">大学もあと卒業研究だけだったのに、ほっぽり出してきた。</p>
+      <p begin="00:00:22:00" end="00:00:25:00" region="bottom">それぐらい晴奈が好きなんだけどさ……</p>
+      <p begin="00:00:25:00" end="00:00:29:12" region="bottom">これできっとよかったんだ</p>
+      <p begin="00:00:34:12" end="00:00:37:12" region="bottom">まだ着かないんだね……</p>
+      <p begin="00:00:37:12" end="00:00:40:12" region="bottom">遠いからな</p>
+      <p begin="00:00:40:12" end="00:00:44:00" region="bottom">遠くないと……意味ないもんね</p>
+      <p begin="00:00:44:00" end="00:00:47:12" region="bottom">そりゃそうだろ</p>
+      <p begin="00:00:47:12" end="00:00:53:00" region="bottom">僕がまだ小学生だった頃、隣に引っ越してきたのが、</p>
+      <p begin="00:00:53:00" end="00:00:56:12" region="bottom">晴奈だった。</p>
+      <p begin="00:00:56:12" end="00:01:01:12" region="bottom">自然と話すようになって、自然といつも一緒にいた。</p>
+      <p begin="00:01:01:12" end="00:01:04:12" region="bottom">小学校も中学校も同じだったから、</p>
+      <p begin="00:01:04:12" end="00:01:07:12" region="bottom">高校だって同じだと思っていた。</p>
+      <p begin="00:01:07:12" end="00:01:12:00" region="bottom">だけど次は僕が家庭の都合で引っ越してしまった。</p>
+      <p begin="00:01:12:00" end="00:01:20:12" region="bottom">今思えば決して遠い距離ではないけれど、まだ子供だった僕たちにはすごく遠く感じていたんだ。</p>
+      <p begin="00:01:20:12" end="00:01:28:12" region="bottom">だから、僕たちは六年もの間、メールだけのやり取りをしていた。</p>
+      <p begin="00:01:28:12" end="00:01:36:12" region="bottom">いつか自然と会って、自然と話して、また一緒に遊ぶんだろうと思っていたのは、</p>
+      <p begin="00:01:36:12" end="00:01:38:12" region="bottom">僕だけだった</p>
+      <p begin="00:01:39:12" end="00:01:41:00" region="bottom">雲の上か……</p>
+      <p begin="00:01:41:00" end="00:01:43:00" region="bottom">なんか、すごいね</p>
+      <p begin="00:01:43:00" end="00:01:46:00" region="bottom">僕もはじめて見るよ。なにかいたりする？</p>
+      <p begin="00:01:46:00" end="00:01:48:00" region="bottom">雷様とか</p>
+      <p begin="00:01:48:00" end="00:01:50:00" region="bottom">いるわけないでしょ</p>
+      <p begin="00:01:54:00" end="00:01:59:00" region="bottom">僕は高校を卒業し、今は大学生だ。</p>
+      <p begin="00:01:59:00" end="00:02:03:00" region="bottom">だけど、晴奈は高校を中退してしまったらしい。</p>
+      <p begin="00:02:03:00" end="00:02:07:00" region="bottom">いじめにあって、学校に行けなくなったんだ。</p>
+      <p begin="00:02:07:00" end="00:02:12:00" region="bottom">メール越しのやりとりでも、日に日に弱ってきているのがはっきりとわっかた。</p>
+      <p begin="00:02:12:00" end="00:02:15:12" region="bottom">『死にたい』なんて言うようにもなった。</p>
+      <p begin="00:02:15:12" end="00:02:22:00" region="bottom">そして、つい数日前、秋になるかならないかはっきりしない九月のこと。</p>
+      <p begin="00:02:22:00" end="00:02:27:12" region="bottom">六年越しにかかってきた電話から聴こえてきたのは、震えた声で……</p>
+      <p begin="00:02:27:12" end="00:02:31:12" region="bottom">もう無理だよ……今すぐ死にたい。</p>
+      <p begin="00:02:31:12" end="00:02:34:00" region="bottom">一緒に死の？</p>
+      <p begin="00:02:34:00" end="00:02:36:00" region="bottom">って、そんなの嫌に決まっている。</p>
+      <p begin="00:02:36:00" end="00:02:39:00" region="bottom">人生なんてまだまだ長いんだし、</p>
+      <p begin="00:02:39:00" end="00:02:42:00" region="bottom">これからだって僕は晴奈と一緒にいたいんだ。</p>
+      <p begin="00:02:42:00" end="00:02:47:00" region="bottom">辛い過去なんて、楽しい思い出で消してやる</p>
+      <p begin="00:02:53:00" end="00:02:55:00" region="bottom">楽しそうだな</p>
+      <p begin="00:02:55:00" end="00:02:56:00" region="bottom">え？</p>
+      <p begin="00:02:56:00" end="00:02:59:00" region="bottom">家を出た時点でもうワクワクだよ！</p>
+      <p begin="00:02:59:00" end="00:03:02:12" region="bottom">佑希くんとの最後の思い出だもん……</p>
+      <p begin="00:03:02:12" end="00:03:04:12" region="bottom">あ、あぁ</p>
+      <p begin="00:03:04:12" end="00:03:07:00" region="bottom">そうだな……</p>
+      <p begin="00:03:08:12" end="00:03:13:00" region="bottom">僕らは同じ飛行機に乗り、同じ行き先を目指している。</p>
+      <p begin="00:03:13:00" end="00:03:17:12" region="bottom">だけど、僕の目的は晴奈に死ぬのを留まってもらうことだ。</p>
+      <p begin="00:03:17:12" end="00:03:22:12" region="bottom">晴奈は最後の思い出とか言ってる……先が不安でしかないよな。</p>
+      <p begin="00:03:22:12" end="00:03:27:12" region="bottom">だって所持金は三十万円だけ……奨学金を全額おろしてきた。</p>
+      <p begin="00:03:27:12" end="00:03:30:12" region="bottom">とりあえず部屋は借りてるけど、</p>
+      <p begin="00:03:30:12" end="00:03:36:12" region="bottom">楽しい思いをさせてあげないことには、死ぬって言い続けるだろうしな</p>
+      <p begin="00:03:36:12" end="00:03:39:12" region="bottom">もうちょっとで着くって。新千歳！</p>
+      <p begin="00:03:39:12" end="00:03:43:12" region="bottom">うかれてんのはいいけど、ちゃんとSIMカード抜いたんだろうな？</p>
+      <p begin="00:03:43:12" end="00:03:45:12" region="bottom">居場所見つかっちゃうぞ</p>
+      <p begin="00:03:45:12" end="00:03:48:12" region="bottom">大丈夫だよ？　ポケットに入れてあるし</p>
+      <p begin="00:03:48:12" end="00:03:53:12" region="bottom">なくしたらダメだからな。僕が預かっとく。ほら出せ</p>
+      <p begin="00:03:53:12" end="00:03:56:00" region="bottom">こんなもの無くしたっていいんだよ……</p>
+      <p begin="00:03:56:00" end="00:04:00:12" region="bottom">どうせこれからの楽しい思い出は、佑希くんとしか作らないんだから</p>
+      <p begin="00:04:00:12" end="00:04:03:12" region="bottom">はいはい、それなら……</p>
+      <p begin="00:04:03:12" end="00:04:09:00" region="bottom">生きないとな。と言いかけて口を閉じた。</p>
+      <p begin="00:04:09:00" end="00:04:13:00" region="bottom">まだこの言葉を言うには早すぎる気がした</p>
+      <p begin="00:04:17:00" end="00:04:18:00" region="bottom">どこ行く？</p>
+      <p begin="00:04:18:00" end="00:04:21:00" region="bottom">ワクワクしてるのはいいけど、</p>
+      <p begin="00:04:21:00" end="00:04:26:12" region="bottom">まず鍵を受け取らないと、今晩寝るところもないぞ</p>
+      <p begin="00:04:26:12" end="00:04:29:00" region="bottom">はっ！　そうだった！</p>
+      <p begin="00:04:34:12" end="00:04:37:00" region="bottom">僕たちは電車に乗り札幌市内を目指した。</p>
+      <p begin="00:04:37:00" end="00:04:42:00" region="bottom">狭いけど、なかなか良いところに部屋を借りてある</p>
+      <p begin="00:04:42:00" end="00:04:46:00" region="bottom">あれが札幌の街？ 都会だね</p>
+      <p begin="00:04:46:00" end="00:04:50:00" region="bottom">そうだな。こんなに都会だなんて知らなかったよ</p>
+      <p begin="00:04:52:00" end="00:04:56:12" region="bottom">楽しみだね！</p>
+      <p begin="00:04:56:12" end="00:05:02:12" region="bottom">そして、僕たちは不動産屋で鍵を受け取り、部屋に入った。</p>
+      <p begin="00:05:02:12" end="00:05:04:12" region="bottom">怪しまれなかったかな……</p>
+      <p begin="00:05:07:12" end="00:05:10:00" region="bottom">綺麗なところだね！</p>
+      <p begin="00:05:10:00" end="00:05:15:00" region="bottom">家具も揃ってるし、当分の生活には困りなさそうだな</p>
+      <p begin="00:05:18:12" end="00:05:21:12" region="bottom">こっちは何の部屋かな？</p>
+      <p begin="00:05:27:12" end="00:05:30:00" region="bottom">ゆ、佑希くんは、ソファーで寝てよね！</p>
+      <p begin="00:05:30:00" end="00:05:32:12" region="bottom">はいはい</p>
+      <p begin="00:05:32:12" end="00:05:37:00" region="bottom">ねぇねぇ札幌着いたら行きたいって思ってたところがあるの。</p>
+      <p begin="00:05:37:00" end="00:05:38:12" region="bottom">今から行こう！</p>
+      <p begin="00:05:38:12" end="00:05:44:00" region="bottom">まだ荷物も置いたばかりなのに落ち着きがないな。どこ行くんだ？</p>
+      <p begin="00:05:44:00" end="00:05:46:00" region="bottom">着いてくればわかるよ</p>
+      <p begin="00:05:49:00" end="00:05:50:12" region="bottom">なんでここなんだよ！</p>
+      <p begin="00:05:50:12" end="00:05:52:12" region="bottom">え？ 見たかったから</p>
+      <p begin="00:05:52:12" end="00:05:54:12" region="bottom">そりゃそうなんだろうけど</p>
+      <p begin="00:05:54:12" end="00:05:57:12" region="bottom">僕、大学ほっぽり出したんだぞ？</p>
+      <p begin="00:05:57:12" end="00:05:59:00" region="bottom">思い出させんなよ</p>
+      <p begin="00:06:01:00" end="00:06:04:00" region="bottom">佑希くんってこんな遠くの大学まで？</p>
+      <p begin="00:06:04:00" end="00:06:06:00" region="bottom">神戸空港から飛行機通学かな？</p>
+      <p begin="00:06:06:00" end="00:06:08:00" region="bottom">冗談は大概にしとけ</p>
+      <p begin="00:06:10:00" end="00:06:14:00" region="bottom">僕はこうやって楽しそうにしている晴奈が好きだ</p>
+      <p begin="00:06:14:00" end="00:06:18:00" region="bottom">大学かぁ……行ってみたかったな</p>
+      <p begin="00:06:18:00" end="00:06:20:00" region="bottom">ん？　どうした？</p>
+      <p begin="00:06:20:00" end="00:06:22:00" region="bottom">うぅん、いや、何でもない</p>
+      <p begin="00:06:22:00" end="00:06:25:00" region="bottom">そろそろ帰るぞ。いつまでもいたくない</p>
+      <p begin="00:06:25:00" end="00:06:27:12" region="bottom">えー、もうちょっといようよ</p>
+      <p begin="00:06:27:12" end="00:06:33:00" region="bottom">もう暗くなっちゃうし……はぁ……まぁ、晩御飯ぐらい食べて帰るか</p>
+      <p begin="00:06:33:00" end="00:06:37:00" region="bottom">やったね！ 佑希くんわかってるぅ！</p>
+      <p begin="00:06:40:00" end="00:06:45:00" region="bottom">僕たちの、最後の思い出作りが始まった</p>
+      <p begin="00:07:33:12" end="00:07:36:12" region="bottom">似たようなのが神戸にあるよな</p>
+      <p begin="00:07:36:12" end="00:07:37:12" region="bottom">そうだっけ</p>
+      <p begin="00:07:37:12" end="00:07:39:00" region="bottom">そうだよ。一緒じゃん</p>
+      <p begin="00:07:39:00" end="00:07:45:00" region="bottom">あのねー。ここは札幌なの。神戸じゃないんだよ。ここのやつ楽しんでよ</p>
+      <p begin="00:07:45:00" end="00:07:48:00" region="bottom">それもそうだな</p>
+      <p begin="00:07:48:00" end="00:07:50:00" region="bottom">ひょっとしてホームシック？</p>
+      <p begin="00:07:50:00" end="00:07:52:00" region="bottom">んなわけないだろ</p>
+      <p begin="00:07:52:00" end="00:07:54:00" region="bottom">もー、強がっちゃって。</p>
+      <p begin="00:07:54:00" end="00:07:56:00" region="bottom">さてさて、なに食べる？</p>
+      <p begin="00:07:57:00" end="00:07:58:12" region="bottom">おい！ 見るんじゃなかったのかよ！</p>
+      <p begin="00:07:58:12" end="00:08:00:12" region="bottom">景色よりも食欲かな</p>
+      <p begin="00:08:10:00" end="00:08:13:12" region="bottom">明日からも楽しいんだよ……ね</p>
+      <p begin="00:08:13:12" end="00:08:15:12" region="bottom">もちろんさ</p>
+      <p begin="00:08:15:12" end="00:08:20:12" region="bottom">そうだよね……ここには佑希くんしかいないもんね</p>
+      <p begin="00:08:20:12" end="00:08:22:00" region="bottom">ま、そういうことだな！</p>
+      <p begin="00:08:22:00" end="00:08:24:00" region="bottom">僕、明日も札幌ラーメンでも良いよ！</p>
+      <p begin="00:08:24:00" end="00:08:27:00" region="bottom">流石に違うもの食べようよ</p>
+      <p begin="00:08:27:00" end="00:08:29:00" region="bottom">そうだな</p>
+      <p begin="00:08:32:00" end="00:08:34:12" region="bottom">ありがとう。佑希くん</p>
+      <p begin="00:08:34:12" end="00:08:36:12" region="bottom">なんだよいきなり！</p>
+      <p begin="00:08:36:12" end="00:08:38:12" region="bottom">さ、寝るぞ</p>
+      <p begin="00:08:38:12" end="00:08:41:12" region="bottom">はーい。おやすみなさい</p>
+      <p begin="00:08:41:12" end="00:08:43:12" region="bottom">おやすみ</p>
+      <p begin="00:08:47:12" end="00:08:51:00" region="bottom">僕は晴奈が寝たあとこっそりとスマホを開いた。</p>
+      <p begin="00:08:51:00" end="00:08:59:00" region="bottom">今になって気づいたこと。それはもう遅すぎたんだけど、札幌に来てから二週間、</p>
+      <p begin="00:08:59:00" end="00:09:03:00" region="bottom">遊んでばかりで所持金が底を尽きかけていることだ。</p>
+      <p begin="00:09:03:00" end="00:09:09:00" region="bottom">なんとか仕事を探さないと、ヒッチハイカーにでもなって、地元に帰るしかないからな……</p>
+      <p begin="00:09:14:00" end="00:09:15:12" region="bottom">おはよう佑希くん</p>
+      <p begin="00:09:15:12" end="00:09:19:00" region="bottom">あ、あぁ、おはよ</p>
+      <p begin="00:09:19:00" end="00:09:22:12" region="bottom">良い天気だね……なにまだ眠たい？</p>
+      <p begin="00:09:22:12" end="00:09:25:12" region="bottom">あーいや大丈夫。それより</p>
+      <p begin="00:09:25:12" end="00:09:28:12" region="bottom">晴奈に話があってさ……</p>
+      <p begin="00:09:28:12" end="00:09:30:12" region="bottom">どうしたの？</p>
+      <p begin="00:09:30:12" end="00:09:33:12" region="bottom">仕事を始めないといけない</p>
+      <p begin="00:09:33:12" end="00:09:36:00" region="bottom">え？</p>
+      <p begin="00:09:36:00" end="00:09:40:12" region="bottom">お金っていつまでもないんだよな。尽きたらおしまいだしさ</p>
+      <p begin="00:09:40:12" end="00:09:43:12" region="bottom">尽きたらダメなの？</p>
+      <p begin="00:09:43:12" end="00:09:45:12" region="bottom">そしたら……</p>
+      <p begin="00:09:45:12" end="00:09:47:12" region="bottom">ダメに決まってんだろ。</p>
+      <p begin="00:09:47:12" end="00:09:50:12" region="bottom">楽しい思い出たくさん作るんだろ？</p>
+      <p begin="00:09:52:12" end="00:09:57:00" region="bottom">今の晴奈はお金が尽きたら死ぬつもりだったんだ……</p>
+      <p begin="00:09:57:00" end="00:09:59:00" region="bottom">それなら私も働く！</p>
+      <p begin="00:09:59:00" end="00:10:00:12" region="bottom">なにいってんだよ</p>
+      <p begin="00:10:04:12" end="00:10:08:12" region="bottom">佑希くんは優しいから一緒に来てくれたんでしょ？</p>
+      <p begin="00:10:08:12" end="00:10:12:00" region="bottom">まだまだ楽しい思い出作りたいのに……</p>
+      <p begin="00:10:12:00" end="00:10:14:12" region="bottom">佑希くんだけ辛いなんて……</p>
+      <p begin="00:10:16:00" end="00:10:21:12" region="bottom">じゃぁ誰が晩御飯用意するんだ？ 仕事で疲れて帰って来てから作るなんて嫌だからな</p>
+      <p begin="00:10:21:12" end="00:10:24:00" region="bottom">それは……</p>
+      <p begin="00:10:24:00" end="00:10:28:00" region="bottom">洗濯してもらわないと汚い服のままなんだけどな</p>
+      <p begin="00:10:28:00" end="00:10:30:00" region="bottom">うぅ……</p>
+      <p begin="00:10:31:00" end="00:10:33:00" region="bottom">役割分担ってやつだ。</p>
+      <p begin="00:10:33:00" end="00:10:36:00" region="bottom">辛いのはお互い様だよ</p>
+      <p begin="00:10:40:00" end="00:10:43:12" region="bottom">わかった……</p>
+      <p begin="00:10:47:12" end="00:10:51:00" region="bottom">僕は日雇い日払いの仕事を始めた。</p>
+      <p begin="00:10:51:00" end="00:10:55:12" region="bottom">なにをするかはバラバラだし、やりたくないことだってある。</p>
+      <p begin="00:10:55:12" end="00:10:59:00" region="bottom">だけど、お金のためなら仕方がない。</p>
+      <p begin="00:10:59:00" end="00:11:03:12" region="bottom">今日で結構貯まったし。明日は何処か遊びに行けるかな</p>
+      <p begin="00:11:03:12" end="00:11:07:00" region="bottom">佑希くん今頃頑張ってるのかな。</p>
+      <p begin="00:11:07:00" end="00:11:11:00" region="bottom">そういえば佑希くんって好き嫌い激しいよね。</p>
+      <p begin="00:11:11:00" end="00:11:15:00" region="bottom">まぁこれから私が矯正していけばいいかな。ふふっ。</p>
+      <p begin="00:11:15:00" end="00:11:19:00" region="bottom">あー、今日はシチューにでもしようかな。北海道って感じがするし！</p>
+      <p begin="00:11:19:00" end="00:11:25:00" region="bottom">んー、あー、ん？ なんだか新婚生活みたい……</p>
+      <p begin="00:11:42:00" end="00:11:44:12" region="bottom">おはよ！</p>
+      <p begin="00:11:44:12" end="00:11:47:00" region="bottom">今日はどっか出掛けるか</p>
+      <p begin="00:11:47:00" end="00:11:49:12" region="bottom">え？ どうしたの？、急に</p>
+      <p begin="00:11:49:12" end="00:11:52:00" region="bottom">最近ずっと家だったからな</p>
+      <p begin="00:11:52:00" end="00:11:55:00" region="bottom">ううん。うちで良いよ</p>
+      <p begin="00:11:55:00" end="00:11:58:12" region="bottom">えっとお金なら心配しなくても……</p>
+      <p begin="00:11:58:12" end="00:12:00:12" region="bottom">そうじゃなくって……</p>
+      <p begin="00:12:00:12" end="00:12:04:12" region="bottom">たまには人目を気にせず二人でゆっくりしたいなぁって</p>
+      <p begin="00:12:05:00" end="00:12:06:00" region="bottom">あの……晴奈さん？</p>
+      <p begin="00:12:06:00" end="00:12:09:12" region="bottom">パジャマのボタン外れかけてますけど……</p>
+      <p begin="00:12:09:12" end="00:12:11:00" region="bottom">うん</p>
+      <p begin="00:12:11:00" end="00:12:12:12" region="bottom">うんじゃなくって</p>
+      <p begin="00:12:12:12" end="00:12:14:12" region="bottom">……見えてるって……</p>
+      <p begin="00:12:14:12" end="00:12:16:12" region="bottom">良いよ。</p>
+      <p begin="00:12:16:12" end="00:12:19:12" region="bottom">佑希くんになら、見せても</p>
+      <p begin="00:12:19:12" end="00:12:21:12" region="bottom">え？ 待って！</p>
+      <p begin="00:12:21:12" end="00:12:24:00" region="bottom">なんで目閉じたの？</p>
+      <p begin="00:12:24:00" end="00:12:26:00" region="bottom">そういうこと？</p>
+      <p begin="00:12:49:00" end="00:12:51:00" region="bottom">やわらか……い</p>
+      <p begin="00:12:53:00" end="00:12:57:00" region="bottom">……ほ、ほら、遊びに行くんでしょ？ 早く早く早く</p>
+      <p begin="00:12:57:00" end="00:12:59:00" region="bottom">お、おう……</p>
+      <p begin="00:13:01:00" end="00:13:02:00" region="bottom">大きいね！</p>
+      <p begin="00:13:02:00" end="00:13:07:00" region="bottom">がっかりスポットなんて言われてるけど、全然そんなことないよな</p>
+      <p begin="00:13:07:00" end="00:13:09:00" region="bottom">あっ！　今動いた</p>
+      <p begin="00:13:09:00" end="00:13:13:00" region="bottom">そりゃ時計だからな。動く……だろ</p>
+      <p begin="00:13:13:00" end="00:13:16:12" region="bottom">三十万円ってあっという間だったな……</p>
+      <p begin="00:13:16:12" end="00:13:20:12" region="bottom">諭吉が三十枚、大金だと思ってたけど……</p>
+      <p begin="00:13:20:12" end="00:13:23:12" region="bottom">今になって思うよ。親ってすげーな。</p>
+      <p begin="00:13:23:12" end="00:13:30:12" region="bottom">単発でバイトして食いつないでるけど、マジで金稼ぐって一筋縄じゃいかないんだな</p>
+      <p begin="00:13:32:12" end="00:13:36:12" region="bottom">私達はいつか終わっちゃうんだけどね</p>
+      <p begin="00:13:36:12" end="00:13:38:00" region="bottom">なにが？</p>
+      <p begin="00:13:38:00" end="00:13:40:12" region="bottom">いいからいいから。</p>
+      <p begin="00:13:40:12" end="00:13:42:12" region="bottom">今日はそろそろ帰ろ。ね？</p>
+      <p begin="00:13:42:12" end="00:13:44:12" region="bottom">う、うん</p>
+      <p begin="00:13:53:00" end="00:13:56:00" region="bottom">あのさ……</p>
+      <p begin="00:13:56:00" end="00:13:58:00" region="bottom">なに？</p>
+      <p begin="00:13:58:00" end="00:14:00:00" region="bottom">楽しかったな</p>
+      <p begin="00:14:00:00" end="00:14:02:00" region="bottom">そうだね</p>
+      <p begin="00:14:02:00" end="00:14:06:00" region="bottom">それで、さ。そろそろ帰らないか。</p>
+      <p begin="00:14:06:00" end="00:14:09:00" region="bottom">親だって心配してると思うんだ……</p>
+      <p begin="00:14:09:00" end="00:14:14:12" region="bottom">何言ってるの？　そんなの話が違う！</p>
+      <p begin="00:14:15:12" end="00:14:18:12" region="bottom">な、なんのことだよ</p>
+      <p begin="00:14:22:12" end="00:14:25:12" region="bottom">それなら私、ここで死ぬわ。</p>
+      <p begin="00:14:25:12" end="00:14:28:00" region="bottom">佑希くんだって、そのつもりだったんでしょ？</p>
+      <p begin="00:14:29:00" end="00:14:31:00" region="bottom">あ、えっと……それは……</p>
+      <p begin="00:14:31:00" end="00:14:34:00" region="bottom">本当は嫌なの？</p>
+      <p begin="00:14:34:00" end="00:14:36:12" region="bottom">……僕は……</p>
+      <p begin="00:14:36:12" end="00:14:40:12" region="bottom">僕はもっと晴奈と一緒に生きたい</p>
+      <p begin="00:14:40:12" end="00:14:42:12" region="bottom">嫌よ。</p>
+      <p begin="00:14:42:12" end="00:14:44:12" region="bottom">私はもう疲れたの。</p>
+      <p begin="00:14:44:12" end="00:14:48:00" region="bottom">佑希くんといれて楽しかったわ</p>
+      <p begin="00:14:48:00" end="00:14:50:00" region="bottom">僕の話をきいてくれ！</p>
+      <p begin="00:14:50:00" end="00:14:53:00" region="bottom">ぐっすり寝たら、明日にでも死にましょ</p>
+      <p begin="00:14:53:00" end="00:14:54:12" region="bottom">だから僕の話を！</p>
+      <p begin="00:14:54:12" end="00:14:59:00" region="bottom">何処で死ねるかな？ 極力ひっそりと死にたいよね！</p>
+      <p begin="00:14:59:00" end="00:15:03:00" region="bottom">なんでだよ……なんでなんだよ……</p>
+      <p begin="00:15:03:00" end="00:15:06:00" region="bottom">死ぬなんて簡単に言うなよ！</p>
+      <p begin="00:15:06:00" end="00:15:08:12" region="bottom">簡単なんかじゃないって！</p>
+      <p begin="00:15:08:12" end="00:15:14:00" region="bottom">私が辛いとき会いにも来てくれなかったくせに！</p>
+      <p begin="00:15:16:00" end="00:15:19:00" region="bottom">どんなに辛かったか知らないでしょ！</p>
+      <p begin="00:15:19:00" end="00:15:22:00" region="bottom">そんなんだから佑希くんは簡単に生きられるんだよ！</p>
+      <p begin="00:15:22:00" end="00:15:25:12" region="bottom">簡単なわけあるか！ 僕は晴奈と生きたいだ！</p>
+      <p begin="00:15:25:12" end="00:15:27:12" region="bottom">……しつこいって！</p>
+      <p begin="00:15:27:12" end="00:15:30:12" region="bottom">いじめられても守ってくれないくせに！</p>
+      <p begin="00:15:37:12" end="00:15:39:12" region="bottom">大丈夫だ。</p>
+      <p begin="00:15:39:12" end="00:15:42:12" region="bottom">もう晴奈から離れたりしない</p>
+      <p begin="00:15:42:12" end="00:15:44:12" region="bottom">そんなの信じない！</p>
+      <p begin="00:15:47:12" end="00:15:51:12" region="bottom">辛かったら泣け！ 僕が半分でも全部でも背負ってやる！</p>
+      <p begin="00:15:51:12" end="00:15:54:12" region="bottom">ここに来てからみたいに楽しかったら笑え！</p>
+      <p begin="00:15:54:12" end="00:15:58:00" region="bottom">それを笑うやつがいたら僕が黙らせてやる！</p>
+      <p begin="00:15:58:00" end="00:16:01:00" region="bottom">今さら何よ！</p>
+      <p begin="00:16:05:00" end="00:16:12:00" region="bottom">ほんと、悪いって思ってるんだ……だからこうして札幌まで一緒に来た……</p>
+      <p begin="00:16:12:00" end="00:16:15:00" region="bottom">一緒に死んでくれるって</p>
+      <p begin="00:16:15:00" end="00:16:22:00" region="bottom">……もういいよ。佑希くん……気持ちだけ受け取っとくね……ありがと</p>
+      <p begin="00:16:24:12" end="00:16:27:12" region="bottom">なぁ……</p>
+      <p begin="00:16:27:12" end="00:16:31:12" region="bottom">晴奈は人の気持ちって考えたことあんのかよ？</p>
+      <p begin="00:16:33:00" end="00:16:37:00" region="bottom">死んだあと残された人の気持ち考えたことあんのかよ！</p>
+      <p begin="00:16:38:12" end="00:16:44:12" region="bottom">大丈夫。私は佑希くんしか信じないから</p>
+      <p begin="00:16:44:12" end="00:16:50:12" region="bottom">信じてる人が一緒に死んでくれたら、あの世でも楽しいよね？</p>
+      <p begin="00:16:53:12" end="00:16:58:00" region="bottom">もういい！ 知らない！ 好きにすればいい！</p>
+      <p begin="00:16:58:00" end="00:17:04:00" region="bottom">僕は家を飛び出した。あてもなく、疲れ果てるまでがむしゃらに走った。</p>
+      <p begin="00:17:04:00" end="00:17:12:00" region="bottom">まだそんなに遅くないのかたくさんの人らしきモノが動いていたけど、僕には全部、大根に見えた</p>
+      <p begin="00:17:14:00" end="00:17:17:00" region="bottom">帰りにくいなぁ……</p>
+      <p begin="00:17:23:00" end="00:17:25:12" region="bottom">好きにすればなんて言ったけど、</p>
+      <p begin="00:17:25:12" end="00:17:28:00" region="bottom">本当に死んじゃったらどうしよう……</p>
+      <p begin="00:17:35:12" end="00:17:38:12" region="bottom">僕は倒れるように眠りについた</p>
+      <p begin="00:17:40:12" end="00:17:42:12" region="bottom">佑希くん……</p>
+      <p begin="00:17:46:12" end="00:17:54:00" region="bottom">なんでだろうね。あんなにも死にたいって思ってたのに、佑希くんがいなくなっただけで凄く悲しい……</p>
+      <p begin="00:17:54:00" end="00:17:57:00" region="bottom">でも、涙がでないのはなんでだろう……</p>
+      <p begin="00:18:01:00" end="00:18:08:00" region="bottom">あぁ佑希くんが私をほうってたときに散々泣き散らかしたから、もう枯れちゃったのかな。</p>
+      <p begin="00:18:08:00" end="00:18:12:12" region="bottom">そういうことにしとこう……どうせもう死ぬんだから……</p>
+      <p begin="00:18:18:00" end="00:18:22:00" region="bottom">晴奈……？</p>
+      <p begin="00:18:26:12" end="00:18:29:00" region="bottom">くそっ！ 何処行ったんだよ！</p>
+      <p begin="00:18:30:12" end="00:18:33:12" region="bottom">まさか本当に死にに行ったんじゃねぇだろうな！</p>
+      <p begin="00:18:33:12" end="00:18:35:12" region="bottom">勝手にふざけんなよ！</p>
+      <p begin="00:18:36:12" end="00:18:41:12" region="bottom">僕は部屋を飛び出し、札幌に来てから二人で行った場所を片っ端から探した。</p>
+      <p begin="00:18:42:12" end="00:18:44:12" region="bottom">はぁはぁはぁ……</p>
+      <p begin="00:18:45:12" end="00:18:50:12" region="bottom">もう何時間も探したけど見つからない</p>
+      <p begin="00:18:53:00" end="00:18:55:00" region="bottom">帰ってみたらいるかも……</p>
+      <p begin="00:18:57:00" end="00:18:59:12" region="bottom">はぁはぁはぁ……</p>
+      <p begin="00:18:59:12" end="00:19:02:12" region="bottom">くそっ！ 昨日飛び出してさえいなければ……</p>
+      <p begin="00:19:02:12" end="00:19:06:12" region="bottom">はぁはぁ……僕のバカ！ 諦めてんなよ！ まだ走れるだろ！</p>
+      <p begin="00:19:06:12" end="00:19:10:12" region="bottom">僕は再び家を出た。案外近くにいるかもしれない。</p>
+      <p begin="00:19:10:12" end="00:19:14:12" region="bottom">一緒に散歩した近所の公園。すぐそこの自動販売機。</p>
+      <p begin="00:19:14:12" end="00:19:17:00" region="bottom">驚かされた電柱の影。</p>
+      <p begin="00:19:17:00" end="00:19:20:00" region="bottom">たまに一緒に買い物に来ていたスーパー</p>
+      <p begin="00:19:30:00" end="00:19:33:12" region="bottom">佑希くんの好物にしようかな。シチューだっけ</p>
+      <p begin="00:19:33:12" end="00:19:36:12" region="bottom">昨日の私、どうかしてたのかな……</p>
+      <p begin="00:19:36:12" end="00:19:40:12" region="bottom">ううん。札幌に来た理由自体どうかしてたのかも……</p>
+      <p begin="00:19:40:12" end="00:19:43:12" region="bottom">佑希くん、帰ってくるよね……</p>
+      <p begin="00:19:43:12" end="00:19:45:00" region="bottom">いた！</p>
+      <p begin="00:19:45:00" end="00:19:46:12" region="bottom">え？</p>
+      <p begin="00:19:46:12" end="00:19:50:12" region="bottom">何処行ってたんだよ！ 朝からずっと探してたんだぞ！</p>
+      <p begin="00:19:50:12" end="00:19:52:00" region="bottom">佑希くん……</p>
+      <p begin="00:19:53:12" end="00:19:55:00" region="bottom">心配したんだから</p>
+      <p begin="00:19:55:00" end="00:19:56:12" region="bottom">それはこっちの台詞よ。</p>
+      <p begin="00:19:56:12" end="00:19:59:12" region="bottom">昨日の夜飛び出していって帰ってこなくって……</p>
+      <p begin="00:19:59:12" end="00:20:03:12" region="bottom">近所探してもいなかったから、美味しい匂いさせたら寄ってくるかなって</p>
+      <p begin="00:20:03:12" end="00:20:07:12" region="bottom">ご、ごめん……泣くなって</p>
+      <p begin="00:20:07:12" end="00:20:10:12" region="bottom">あれ？ 私、泣いてる？</p>
+      <p begin="00:20:16:00" end="00:20:19:00" region="bottom">晴奈が泣いてるところ初めて見た</p>
+      <p begin="00:20:19:00" end="00:20:22:12" region="bottom">あのね……佑希くん。</p>
+      <p begin="00:20:22:12" end="00:20:25:00" region="bottom">私、まだまだ佑希くんと生きたい！</p>
+      <p begin="00:20:25:00" end="00:20:26:12" region="bottom">あぁ</p>
+      <p begin="00:20:26:12" end="00:20:29:00" region="bottom">死にたくない！</p>
+      <p begin="00:20:29:00" end="00:20:32:00" region="bottom">うん！ 一緒に生きよう！</p>
+      <p begin="00:20:33:00" end="00:20:37:00" region="bottom">その後僕たちはそれぞれの実家に電話をかけた。</p>
+      <p begin="00:20:37:00" end="00:20:43:12" region="bottom">どんなに叱られるだろう……と、覚悟を決めていたけど、心配は杞憂だった。</p>
+      <p begin="00:20:43:12" end="00:20:46:12" region="bottom">ただ一言、『生きてて良かった』と。</p>
+      <p begin="00:20:46:12" end="00:20:53:12" region="bottom">晴奈はーー長い電話を終えた彼女は、なんだか浮かない顔をしている。</p>
+      <p begin="00:20:53:12" end="00:20:57:00" region="bottom">なんでもペットのペロが病気になったらしい。</p>
+      <p begin="00:20:57:00" end="00:21:01:00" region="bottom">もうペロも良い年か……先も長くないもんな。</p>
+      <p begin="00:21:01:00" end="00:21:05:12" region="bottom">心配だからと、晴奈だけ先に一人で帰ることになった</p>
+      <p begin="00:21:07:12" end="00:21:09:00" region="bottom">一人で大丈夫？</p>
+      <p begin="00:21:09:00" end="00:21:12:00" region="bottom">今がどんなときかわかってるだろ</p>
+      <p begin="00:21:12:00" end="00:21:15:12" region="bottom">佑希くんは死なないよね？</p>
+      <p begin="00:21:15:12" end="00:21:17:12" region="bottom">最初っから死ぬ気なんてないって。</p>
+      <p begin="00:21:17:12" end="00:21:22:12" region="bottom">僕も部屋片付けたら、大学に戻るよ。またすぐに会いに行く</p>
+      <p begin="00:21:22:12" end="00:21:26:12" region="bottom">ありがと。佑希くん、あのね……</p>
+      <p begin="00:21:26:12" end="00:21:28:12" region="bottom">ん？</p>
+      <p begin="00:21:31:12" end="00:21:33:12" region="bottom">大好きだよ！</p>
+      <p begin="00:21:35:12" end="00:21:39:12" region="bottom">お、おう……僕も大好きだよ</p>
+      <p begin="00:21:45:12" end="00:21:49:12" region="bottom">もしかしたら留年かもな。晴奈のせいで</p>
+      <p begin="00:21:49:12" end="00:21:51:00" region="bottom">ひっどーい</p>
+      <p begin="00:21:51:00" end="00:21:55:00" region="bottom">冗談だよ。でも、これからずっと僕と一緒にいて償うんだぞ</p>
+      <p begin="00:21:55:00" end="00:21:58:12" region="bottom">わかったよ！ またすぐにね！</p>
+    </div>
+  </body>
+</tt>
